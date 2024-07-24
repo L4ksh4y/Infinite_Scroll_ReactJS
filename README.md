@@ -23,8 +23,8 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/
-   cd project-1
+   git clone https://github.com/L4ksh4y/Infinite_Scroll_ReactJS
+   cd project01
    npm install
    npm run dev 
 
